@@ -1,7 +1,7 @@
-966bc39a4093c9b43b854c546e34f5a0 *DESCRIPTION
+0b094fa004576b693eb8c2d88fc350ff *DESCRIPTION
 6404189560b63946d1682f1eed4d20b0 *NAMESPACE
-fcc5b36827f06744e7e9f901073bdab0 *NEWS.md
-4a2bd89d9c44bfb9c3b3a2247a00c073 *R/abr1.R
+c3ee5b2696a434bc090cb5ab5e06e3b4 *NEWS.md
+e1436effccfe5b7c462e811f755e2b22 *R/abr1.R
 88d75ddfa5da4426c72ec7c036c1cb25 *R/available.R
 8dd2202e3f73611b0af5b247c03f195a *R/download.R
 dcc7d1668ec9207d9ec055736572c1bb *R/files.R
@@ -9,12 +9,12 @@ dcc7d1668ec9207d9ec055736572c1bb *R/files.R
 83fc40cc4090f61e80dce35920aa83b1 *R/metaboData.R
 aa4407f099ac769664e553f17c18bce8 *R/reexports.R
 1ae63619b88d550f251e2546c0ced470 *R/runinfo.R
-8e6e382d51ba64471645a0bb337c0d01 *build/vignette.rds
+fb08e27d3d62a92993ffb2ed1e3ba1d4 *build/vignette.rds
 acd07ce449ea1415d5c69f985d09983b *data/abr1.RData
 62cc1ca54d8013c0e088b59affc0dd47 *inst/doc/metaboData.R
 83fd7e1c5b9eaa1dad9a100c1bed13db *inst/doc/metaboData.Rmd
 dbdd27da42cdee6d1c688663a2b202f4 *inst/doc/metaboData.html
-aebcabe02ecf32080836a2b713aa9965 *man/abr1.Rd
+896655786ac575ad15c0c5d3c6c54329 *man/abr1.Rd
 eb99b45e14def03222eee9859e55ac22 *man/availableDataSets.Rd
 2f38a9b7d118ff683de66b27778a4f00 *man/availableFiles.Rd
 1df8e87855ec99670f1930f0acc5f0cf *man/dataSets.Rd

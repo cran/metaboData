@@ -1,7 +1,7 @@
 Package: metaboData
 Type: Package
 Title: Example Metabolomics Data Sets
-Version: 0.6.2
+Version: 0.6.3
 Authors@R: c(
     person("Jasen", "Finch", 
         email = "jsf9@aber.ac.uk", 
@@ -30,17 +30,17 @@ Imports: dplyr, fs, magrittr, piggyback, purrr, readr, rlang, stringr,
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Suggests: testthat, covr, knitr, rmarkdown, prettydoc
 URL: https://aberhrml.github.io/metaboData/
 BugReports: https://github.com/aberHRML/metaboData/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2021-08-19 11:57:06 UTC; jasen
+Packaged: 2022-02-15 22:45:50 UTC; jasen
 Author: Jasen Finch [aut, cre] (<https://orcid.org/0000-0002-6070-7476>),
   Manfred Beckmann [ctb],
   David Enot [ctb],
   Wanchang Lin [ctb]
 Maintainer: Jasen Finch <jsf9@aber.ac.uk>
 Repository: CRAN
-Date/Publication: 2021-08-20 09:40:05 UTC
+Date/Publication: 2022-02-15 23:00:02 UTC
